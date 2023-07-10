@@ -12,7 +12,8 @@
 
 # Librerías y Version Java
 
--[JDK] JDK V20 -[Librerías] javax.swing.JOptionPane
+- [JDK] JDK V20
+- [Librerías] javax.swing.JOptionPane
 
 # Introducción
 
