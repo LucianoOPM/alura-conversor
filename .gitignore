@@ -1,1 +1,6 @@
 /JRE System Library
+.classpath
+/src/tests_currency_converter
+.settings
+/bin
+.project
